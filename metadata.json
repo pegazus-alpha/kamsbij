@@ -1,0 +1,7 @@
+{
+  "name": "KAMS Bejwery - Luxury Jewelry Boutique",
+  "description": "A premium multi-page luxury e-commerce platform for high-end gold, silver, and diamond jewelry based in Douala, Cameroon.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
